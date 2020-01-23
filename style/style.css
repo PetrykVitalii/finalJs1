@@ -1,0 +1,198 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.box1 {
+    margin: 20px auto;
+    background-color: lightgray;
+    width: 600px;
+    min-height: 300px;
+    padding: 20px;
+}
+
+p {
+    margin: 10px 0;
+}
+
+.block {
+    height: 200px;
+    width: 500px;
+    margin: auto;
+    display: none;
+
+}
+
+.block1 {
+    background-color: white;
+}
+
+.button {
+    margin: 0 auto;
+    width: 100px;
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+    text-align: center;
+}
+
+.button1 {
+    background-color: yellow;
+    color: black;
+    width: 45px;
+    height: 40px;
+}
+
+.button2 {
+    background-color: blue;
+    color: white;
+    width: 45px;
+    height: 40px;
+}
+
+textarea {
+    width: 500px;
+    height: 200px;
+    padding: 20px 0 0 30px;
+}
+
+.button3 {
+    background-color: red;
+    color: black;
+    width: 45px;
+    height: 40px;
+}
+
+.button34 {
+    margin: 10px 0 0 25px;
+}
+
+.button4 {
+    background-color: green;
+    color: blue;
+    width: 45px;
+    height: 40px;
+}
+
+.block9 {
+    margin: 60px 0 0 100px;
+    height: 150px;
+    width: 150px;
+    display: none;
+    flex-wrap: wrap;
+}
+
+.blockC {
+    height: 50px;
+    width: 50px;
+}
+
+.input {
+    width: 280px;
+}
+
+.color {
+    width: 230px;
+}
+
+.f2 input {
+    width: 120px;
+    height: 25px;
+    color: white;
+    background-color: grey;
+    outline: none;
+}
+
+.f1 {
+    width: 220px;
+    height: 25px;
+}
+
+.box2 {
+    min-height: 100px;
+    display: none;
+}
+
+.choose h2 {
+    margin: 10px 0 20px 0;
+}
+
+.choose span {
+    margin-right: 20px;
+}
+
+.table {
+    display: none;
+}
+
+.box2 p {
+    display: flex;
+    justify-content: space-between;
+}
+
+.table input {
+    height: 25px;
+    padding-left: 10px;
+}
+
+.table span {
+    line-height: 25px;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin: 10px 0;
+}
+
+td {
+    text-align: center;
+}
+
+.table .button6 {
+    padding: 0;
+}
+
+.sel {
+    display: flex;
+    justify-content: space-between;
+}
+
+.none {
+    display: none;
+}
+
+.button6 {
+    width: 120px;
+    height: 25px;
+    color: white;
+    background-color: green;
+    outline: none;
+    padding: 0;
+}
+
+.list p input {
+    height: 25px;
+    width: 450px;
+    padding-left: 10px;
+
+}
+
+.list select {
+    height: 25px;
+    width: 450px;
+    padding-left: 10px;
+}
+
+.list span {
+    line-height: 25px;
+}
+
+.list {
+    display: none;
+}
+
+ul {
+    margin: 10px 0 10px 15px;
+}
